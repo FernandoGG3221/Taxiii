@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Taxiii</string>
+    <string name="logo">logo</string>
+    <string name="iniciar_ses">Iniciar sesión</string>
+    <string name="user_image">user_image</string>
+    <string name="str_email">Correo electrónico</string>
+    <string name="passw_logo">passw logo</string>
+    <string name="str_passw">Contraseña</string>
+    <string name="str_registrar">Registrar</string>
+    <string name="str_description">Taxiii \nNueva aplicación para \npedir tus viajes de manera \nsegura, rápida y económica</string>
+    <string name="str_driver">Conductor</string>
+    <string name="str_cliente">Cliente</string>
+    <string name="str_nombre">Nombre</string>
+    <string name="str_apellido_p">Apellido Paterno</string>
+    <string name="str_ape_m">Apellido Materno</string>
+    <string name="str_icono_celular">Icono Celular</string>
+    <string name="str_tel">Teléfono</string>
+    <string name="str_confirm_pass">Confirmar contraseña</string>
+    <string name="str_regist_driver">Registrar conductor</string>
+</resources>
