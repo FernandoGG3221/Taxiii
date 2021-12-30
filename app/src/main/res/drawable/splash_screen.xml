@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorBlueLight100"/>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/icon_location_tax"/>
+    </item>
+</layer-list>
